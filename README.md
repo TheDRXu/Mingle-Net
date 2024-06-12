@@ -5,4 +5,6 @@ Ensemble learning, which combines multiple models or predictions, can improve ac
 </br>
 MingleNet uses double-stacking of models, such as DoubleU-Net, DeepLabv3+, U-Net, and DeepLab, to produce masks.
 
+
+<h2>Architecture of MingleNet</h2>
 <img src="https://github.com/TheDRXu/Mingle-Net/assets/101695920/19e8c9a7-ce59-4fc8-93bd-0c098cc7022c" width=50% height=50%>
