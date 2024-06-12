@@ -19,3 +19,5 @@ MingleNet uses double-stacking of models, such as DoubleU-Net, DeepLabv3+, U-Net
 <h2>How to run</h2>
 This MingleNet code can be run using Jupyter Notebook 
 File for Kvasir SEG: MingleNet_KvasirSEG.ipynb
+File for CVCClinicDB: MingleNet_CVCClinicDB.ipynb
+File for CVCColonDB: MingleNet_CVCColonDB.ipynb
