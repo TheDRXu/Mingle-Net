@@ -10,9 +10,12 @@ MingleNet uses double-stacking of models, such as DoubleU-Net, DeepLabv3+, U-Net
 <img src="https://github.com/TheDRXu/Mingle-Net/assets/101695920/19e8c9a7-ce59-4fc8-93bd-0c098cc7022c" width=50% height=50%>
 
 <h2>Dataset</h2>
-<ul>1. Kvasir SEG</ul>
-<ul>2. CVC-ClinicDB</ul>
-<ul>3. CVC-ColonDB</ul>
+<ul>
+  <li>Kvasir SEG</li>
+  <li>CVC-ClinicDB</li>
+  <li>CVC-ColonDB</li>
+</ul>
+
 
 
 
