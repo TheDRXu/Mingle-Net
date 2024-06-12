@@ -22,4 +22,3 @@ This MingleNet code can be run using Jupyter Notebook
 <br>File for CVCClinicDB: MingleNet_CVCClinicDB.ipynb
 <br>File for CVCColonDB: MingleNet_CVCColonDB.ipynb
 
-
