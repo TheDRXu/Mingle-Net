@@ -11,8 +11,8 @@ MingleNet uses double-stacking of models, such as DoubleU-Net, DeepLabv3+, U-Net
 
 <h2>Dataset</h2>
 <ul>
-  <li>Kvasir SEG = [here](https://datasets.simula.no/kvasir-seg/)</li>
-  <li>CVC-ClinicDB = [here](https://datasetninja.com/cvc-612)</li>
+  <li>Kvasir SEG = (https://datasets.simula.no/kvasir-seg/)</li>
+  <li>CVC-ClinicDB = (https://datasetninja.com/cvc-612)</li>
   <li>CVC-ColonDB</li>
 </ul>
 
