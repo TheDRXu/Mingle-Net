@@ -25,3 +25,8 @@ Note that other versions of the libraries may also work. This setup was tested w
 
 <h2>How to run</h2>
 This Project can be run using the ```Notebook.ipynb``` file.
+
+
+#Sample Predictions
+(CVC-ClinicDB)
+![fg8300](https://github.com/user-attachments/assets/4055f7d6-cf3b-42be-8e33-d308f46344fe)
