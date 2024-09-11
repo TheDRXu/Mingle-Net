@@ -109,7 +109,7 @@ def ASPP(inputs: KerasTensor) -> KerasTensor:
     return y
 
 
-def deeplabModel(modelType: str, shape: tuple[int] = (256, 256, 3)) -> Model:
+def DeepLabV3(modelType: str, shape: tuple[int] = (256, 256, 3)) -> Model:
     """Creates a Model with the specified backbone.
 
     Args:

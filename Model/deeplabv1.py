@@ -1,3 +1,8 @@
+import tensorflow as tf
+from keras.models import Model
+from tensorflow.keras.layers import Input, Conv2D, MaxPooling2D, Activation, BatchNormalization, Conv2DTranspose, UpSampling2D, Concatenate
+
+
 def deeplab(input_shape=(256,256,3)):
 
     atrous_rates = [6, 12, 18, 24]
